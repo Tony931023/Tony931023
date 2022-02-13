@@ -1,13 +1,7 @@
 ### Hey! I am [ShadowNet](https://Github.com/Tony931023) 👋
 
-<!--<a href="https://github-readme-stats.tony93102.vercel.app/api?username=tony93102&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.tony93102.vercel.app/api?username=tony93102&show_icons=true&theme=dark" />
-</a>-->
-<a href="https://github-readme-stats.tony93102.vercel.app/api?username=tony93102&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony93102&layout=compact&theme=dark" />
-</a>
+![Tony931023 GitHub stats](https://github-readme-stats.vercel.app/api?username=tony931023)
 
-<!--
 **Tony931023/Tony931023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
